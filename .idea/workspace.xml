@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d8ba2d-e06f-4f00-b52f-c6493f4516ba" name="Default Changelist" comment="" />
+    <list default="true" id="59d8ba2d-e06f-4f00-b52f-c6493f4516ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Graphs/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Graphs/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +19,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aKaNRKXXhPbYQ5lCCuvhC1PHkF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -59,26 +71,26 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="311" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586818865370" />
-    <state width="1238" height="118" key="GridCell.Tab.0.bottom" timestamp="1586886324807">
+    <state width="1238" height="155" key="GridCell.Tab.0.bottom" timestamp="1586910457870">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="118" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586886324807" />
-    <state width="1238" height="118" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1586824870415" />
-    <state width="1238" height="118" key="GridCell.Tab.0.center" timestamp="1586886324805">
+    <state width="1238" height="118" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586895221575" />
+    <state width="1238" height="155" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1586910457870" />
+    <state width="1238" height="155" key="GridCell.Tab.0.center" timestamp="1586910457868">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="118" key="GridCell.Tab.0.center/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586886324805" />
-    <state width="1238" height="118" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1586824870415" />
-    <state width="1238" height="118" key="GridCell.Tab.0.left" timestamp="1586886324805">
+    <state width="1238" height="118" key="GridCell.Tab.0.center/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586895221574" />
+    <state width="1238" height="155" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1586910457868" />
+    <state width="1238" height="155" key="GridCell.Tab.0.left" timestamp="1586910457866">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="118" key="GridCell.Tab.0.left/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586886324805" />
-    <state width="1238" height="118" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1586824870414" />
-    <state width="1238" height="118" key="GridCell.Tab.0.right" timestamp="1586886324806">
+    <state width="1238" height="118" key="GridCell.Tab.0.left/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586895221573" />
+    <state width="1238" height="155" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1586910457866" />
+    <state width="1238" height="155" key="GridCell.Tab.0.right" timestamp="1586910457869">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="118" key="GridCell.Tab.0.right/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586886324806" />
-    <state width="1238" height="118" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1586824870415" />
+    <state width="1238" height="118" key="GridCell.Tab.0.right/0.23.1280.777/-1920.23.1920.1057@0.23.1280.777" timestamp="1586895221575" />
+    <state width="1238" height="155" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1586910457869" />
     <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1586883275642">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
